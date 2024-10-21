@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Falooda",
+    "title": "Buy One GET ONe",
+    "price": 60,
+    "category": "offer",
+    "image": "../photo1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ice Cream",
+    "title": "Buy One GET ONe",
+    "price": 40,
+    "category": "offer",
+    "image": "../photo2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Burger",
+    "title": "Buy One GET ONe",
+    "price": 100,
+    "category": "offer",
+    "image": "../photo3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "nuggets",
+    "title": "Buy One GET ONe",
+    "price": 99,
+    "category": "offer",
+    "image": "../photo4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ice Cream",
+    "title": "Buy One GET ONe",
+    "price": 40,
+    "category": "offer",
+    "image": "../photo2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Burger",
+    "title": "Buy One GET ONe",
+    "price": 100,
+    "category": "offer",
+    "image": "../photo3.jpg"
+  },
+  {
+    "id": 7,
+    "name": "nuggets",
+    "title": "Buy One GET ONe",
+    "price": 99,
+    "category": "offer",
+    "image": "../photo4.jpg"
+  }
+]
