@@ -1,17 +1,15 @@
 import React from "react";
-import Navbar from "./components/Navbar";
-import Carousel from "./components/Carousel";
-import Footer from "./components/Footer";
-import Menu from "./components/Menu";
-import ShopDescription from "./components/ShopDescription";
+import { Route, Routes } from "react-router-dom";
+import Home from "./home/Home";
+import MenuPage from "./assets/menu/Menu";
+import MenuItems from "./components/MenuItems";
 function App() {
   return (
     <>
-      <Navbar />
-      <Carousel />
-      <Menu />
-      <ShopDescription />
-      <Footer />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="MenuItems" element={<MenuPage />} />
+      </Routes>
     </>
   );
 }
